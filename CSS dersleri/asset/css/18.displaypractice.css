@@ -1,0 +1,28 @@
+nav.menu li{
+ display: inline-block; 
+ margin-right: 20px;
+}
+nav.menu ul{
+ padding:0;
+ margin:0;
+ list-style-type: none;
+ text-align: center;
+
+}
+
+nav.menu a{
+ color:aliceblue;
+ text-decoration:none;
+ padding: 10px 20px;
+ display: inline-block;
+ background-color:blueviolet;
+
+}
+
+nav.menu a:hover{
+ background-color:rgb(171, 163, 163);
+
+}
+
+
+

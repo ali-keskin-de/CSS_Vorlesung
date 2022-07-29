@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "kendi calismalarim"
+	},
+	{
+		"path": "asset"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "kendi calismalarim"
+  }
+}

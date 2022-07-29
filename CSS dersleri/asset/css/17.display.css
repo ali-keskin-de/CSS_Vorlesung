@@ -1,0 +1,16 @@
+.inline{
+ background-color: red;
+}
+
+.block{
+background-color:green;}
+
+.in-bl{
+ background-color:yellow;
+ display: inline-block;
+ height: 100px;
+ padding: 30px;
+}
+.hidden{
+ display: none
+}

@@ -1,0 +1,22 @@
+.block-inline{
+ background-color: red;
+ text-align: center;
+ 
+}
+
+.block-inline b{
+ background-color: blue;
+ color: white
+}
+
+.block-block{
+ margin-top: 50px;
+ background-color: violet;
+}
+
+.block-block div{
+ background-color: greenyellow;
+ width: 100px;
+ margin-right:auto;
+ margin-left: auto;
+}

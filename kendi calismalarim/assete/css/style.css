@@ -1,0 +1,20 @@
+p {
+ font-family: Arial, Helvetica, sans-serif;
+                 color: blue;
+                   
+
+}
+h1,h2{
+ color: green;
+ background-color:orange;
+ text-align: center;
+}
+p.önemli{
+ color: green;
+ font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h2.baslik{
+ background-color:gray;
+ color: white
+}
